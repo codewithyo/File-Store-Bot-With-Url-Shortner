@@ -7,24 +7,24 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/VJBots/File-Store-Bot-With-Url-Shortner",
-    "website": "https://telegram.dog/VJ_Botz",
-    "success_url": "https://t.me/VJ_Bot_Disscussion",
-    "logo": "https://telegra.ph/file/b39906f572822b3ab82c8.jpg",
+    "repository": "https://github.com/",
+    "website": "https://telegram.dog/",
+    "success_url": "https://t.me/",
+    "logo": "https://telegra.ph/file/84870d6d89b893e59c5f0.jpg",
     "env": {
-        "API_ID": {
+        "API_ID": { 28575202
             "description": "Get this value from my.telegram.org"
         },
-        "API_HASH": {
+        "API_HASH": { 1b67159ec6b7d40313ee851dd76fdb16
             "description": "Get this value from my.telegram.org"
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": { 6762321917:AAEaZ6zlmSvbUHLzWwJhCWxOhf-l5aSZY18
             "description": "Get this from @BotFather"
         },
-        "BOT_USERNAME": {
+        "BOT_USERNAME": { comians_bot
             "description": "Your Bot Username which you sent to @BotFather (Without [@])"
         },
-        "DB_CHANNEL": {
+        "DB_CHANNEL": { -1002480406235
             "description": "The Channel ID which will be used as Database. Example: -100123456789"
         },
         "SHORTLINK_URL": {
@@ -33,17 +33,17 @@
         "SHORTLINK_API": {
             "description": "Your Url Shortner Api Token"
         },
-        "BOT_OWNER": {
+        "BOT_OWNER": { 6763996948
             "description": "Bot Owner UserID"
         },
-        "DATABASE_URL": {
+        "DATABASE_URL": { mongodb+srv://telegrambot:telegram@bot@cluster0.g6bim.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
             "description": "MongoDB Database URI for Saving UserID for Broadcast."
         },
-        "UPDATES_CHANNEL": {
+        "UPDATES_CHANNEL": { 
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
             "required": false
         },
-        "LOG_CHANNEL": {
+        "LOG_CHANNEL": { -1002480406235
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
         }
     },
